@@ -46,10 +46,16 @@
     "eslint-plugin-react": "^7.4.0",
     "mocha": "^6.1.3",
     "nyc": "^15.0.1",
-    "rimraf": "^2.6.2"
+    "rimraf": "^2.7.1"
   },
   "dependencies": {
     "@peculiar/webcrypto": "^1.1.1",
-    "gun": "git://github.com/amark/gun.git#master"
+    "brace": "^0.11.1",
+    "bufferutil": "^4.0.1",
+    "gun": "git://github.com/amark/gun.git#master",
+    "react-native-webview": "^10.3.2",
+    "react-native-webview-crypto": "0.0.20",
+    "rollup": "^2.23.0",
+    "utf-8-validate": "^5.0.2"
   }
 }
